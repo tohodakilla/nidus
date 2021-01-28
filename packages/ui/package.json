@@ -74,7 +74,7 @@
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
-    "electron": "1.7.9",
+    "electron": "9.4.0",
     "electron-builder": "^19.48.2",
     "rollup": "^0.52.0",
     "rollup-plugin-babel": "^3.0.2",
